@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://proscribedmeaning.xyz/sitemap.xml
